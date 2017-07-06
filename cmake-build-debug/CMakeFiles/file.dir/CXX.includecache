@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/xujingguo/Desktop/file/fileSys.h
+iostream
+-
+string
+-
+
+C:/Users/xujingguo/Desktop/file/main.cpp
+iostream
+-
+fileSys.h
+C:/Users/xujingguo/Desktop/file/fileSys.h
+
+C:/Users/xujingguo/Desktop/file/user.cpp
+fileSys.h
+C:/Users/xujingguo/Desktop/file/fileSys.h
+fstream
+-
+iostream
+-
+conio.h
+-
+vector
+-
+algorithm
+-
+cstring
+-
+

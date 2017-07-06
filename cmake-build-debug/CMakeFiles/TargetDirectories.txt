@@ -1,0 +1,3 @@
+C:/Users/xujingguo/Desktop/file/cmake-build-debug/CMakeFiles/file.dir
+C:/Users/xujingguo/Desktop/file/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xujingguo/Desktop/file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
